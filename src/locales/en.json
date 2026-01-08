@@ -1,0 +1,187 @@
+{
+  "foundation_name": "Ashthavadhani Santulan Foundation",
+
+  "nav": {
+    "home": "Home",
+    "about": "Who We Are",
+    "work": "What We Do",
+    "media": "Media",
+    "contact": "Contact Us",
+    "donate": "DONATE"
+  },
+
+  "about": {
+    "menu": {
+      "story": "Our Story",
+      "vision": "Vision",
+      "mission": "Mission",
+      "philosophy": "Philosophy of Change",
+      "lifecycle": "The Lifecycle Approach",
+      "how": "How We Work",
+      "trust": "Why Trust Us?"
+    },
+
+    "story": {
+      "title": "Our Story",
+      "content": "Ashtavadhani Santulan Foundation was initiated with a deep-rooted intention of giving back to society and contributing to the larger good. The foundation is committed to creating a positive social impact by supporting initiatives that promote balance, well-being, education, and sustainable development. Guided by values of responsibility, compassion, and inclusivity, it strives to empower communities and individuals to lead better and more meaningful lives. Through various social, educational, and developmental activities, the foundation aims to bridge gaps, uplift the underprivileged, and foster a culture of harmony and collective growth. Its mission reflects a sincere dedication to social responsibility and long-term societal progress."
+    },
+
+    "vision": {
+      "title": "Our Vision",
+      "content": "To build an inclusive, equitable, and empowered society where every individual has access to equal opportunities for growth and dignity is the core vision guiding our efforts. We aspire to create an environment in which social, economic, and educational barriers are removed, enabling people from all backgrounds to realize their full potential. By promoting fairness, respect, and participation, we aim to uplift marginalized communities and encourage self-reliance and confidence. Our commitment lies in fostering a culture of equality, compassion, and shared responsibility, where human dignity is upheld, talents are nurtured, and sustainable development ensures long-term progress for present and future generations."
+    },
+
+    "mission": {
+      "title": "Our Mission",
+      "content": "ASF empowers children, youth, and women through comprehensive education, healthcare, and livelihood programs designed to create sustainable and long-lasting impact. By strengthening access to quality education, promoting health awareness and essential medical support, and enabling skill development and income-generating opportunities, ASF helps individuals become self-reliant and confident. The foundation focuses on addressing root causes of inequality and vulnerability while nurturing leadership, resilience, and social participation. Through community-driven initiatives and inclusive partnerships, ASF works to uplift underserved populations, improve overall well-being, and build pathways toward economic independence, social stability, and dignified living for individuals and families across diverse communities."
+    },
+
+    "philosophy": {
+      "title": "Our Philosophy",
+      "content": "Sustainable change happens when communities own their development journey and actively participate in shaping their future. When people are involved in identifying challenges, planning solutions, and implementing initiatives, development becomes more meaningful and long-lasting. Community ownership fosters responsibility, confidence, and self-reliance, ensuring that progress continues beyond external support. By valuing local knowledge, encouraging collaboration, and building leadership from within, communities gain the strength to address their needs effectively. This approach not only creates lasting social and economic improvements but also nurtures dignity, resilience, and unity, empowering individuals to drive positive change and contribute collectively to inclusive and sustainable development."
+    },
+
+    "lifecycle": {
+      "title": "Our Lifecycle",
+      "content": "Supporting individuals at every stage of life with continuity of care is essential to building healthy, resilient, and empowered communities. From early childhood through youth, adulthood, and old age, consistent support ensures physical well-being, emotional stability, and social security. Continuity of care enables timely intervention, prevents long-term challenges, and promotes holistic development by addressing evolving needs across life stages. By integrating healthcare, education, counseling, and livelihood support, this approach strengthens trust and long-term relationships. It ensures no one is left behind, enhances quality of life, and empowers individuals to navigate life’s transitions with dignity, confidence, and sustained support."
+    },
+
+    "how": {
+      "title": "How We Work",
+      "content": "Collaboration with communities and institutions is our core model for achieving meaningful and sustainable impact. By working closely with local communities, grassroots organizations, educational institutions, healthcare providers, and government bodies, we ensure that initiatives are relevant, inclusive, and effective. This collaborative approach strengthens trust, leverages shared resources, and combines diverse expertise to address complex social challenges. Community participation ensures ownership and long-term success, while institutional partnerships enhance scale, quality, and accountability. Together, these partnerships enable innovative solutions, efficient implementation, and measurable outcomes, creating a collective effort that drives inclusive development, social equity, and lasting positive change."
+    },
+
+    "trust": {
+      "title": "Trust",
+      "content": "Transparency, accountability, and measurable impact define our credibility and guide every aspect of our work. We are committed to open communication, ethical practices, and responsible use of resources to maintain trust with stakeholders, partners, and communities. Clear reporting, regular evaluations, and data-driven assessments ensure that our programs deliver meaningful and verifiable outcomes. Accountability strengthens our commitment to continuous improvement, while measurable impact helps us understand what works and scale effective solutions. By upholding these principles, we ensure integrity, build long-term confidence, and demonstrate that our efforts create real, sustainable, and positive change in the lives of individuals and communities we serve."
+    }
+  },
+  
+  "home": {
+    "slider": {
+      "text": "Infinite Power to Transform"
+    },
+
+    "about": "Ashtavadhani Santulan Foundation (ASF) is a Private Limited Company incorporated on 2nd April 2019 under Section 8 of the Companies Act, 2013. The Foundation received its license on 29 March 2019 and has been granted registration under Section 12AA of the Income Tax Act, 1961 (order dated 27 November 2019).\n\nASF is dedicated to empowering underserved communities through education, healthcare, and environmental sustainability, with a strong focus on holistic community development and social justice.",
+
+    "impact": {
+      "title": "OUR IMPACT",
+      "thousand": "Thousand",
+      "children": "children and their families are impacted every year",
+      "villages": "VILLAGES",
+      "villagesDesc": "and slums are reached out across the country",
+      "projects": "PROJECTS",
+      "projectsDesc": "focused on education, healthcare, and women empowerment",
+      "states": "STATES",
+      "statesDesc": "are reached including the remotest areas"
+    },
+
+    "programmes": {
+      "title": "OUR PROGRAMMES",
+      "education": "EDUCATION",
+      "educationDesc": "Education, nutrition and holistic development of children",
+      "healthcare": "HEALTHCARE",
+      "healthcareDesc": "Taking healthcare services to doorsteps of hard to reach communities",
+      "women": "WOMEN EMPOWERMENT",
+      "womenDesc": "Empowering adolescent girls & women through community engagement",
+      "livelihood": "LIVELIHOOD",
+      "livelihoodDesc": "Skill training and placement support for underprivileged youth"
+    }
+  },
+
+
+  "contact": {
+    "hero_title": "Contact us",
+    "connect": "Connect on",
+    "for_queries": "for any queries.",
+    "contact_us": "CONTACT US",
+    "registered_office": "Registered Office",
+    "support_office": "Support Office",
+    "support_desc": "Corporate & CSR Coordination Office",
+    "address": "Fl No A-205, Pl No 23/1, S No 24/1, Gajanan Heights, Dhayari, Pune – 411041"
+  },
+
+  "donate": {
+    "title": "Support Our Cause",
+    "subtitle": "Your contribution helps us empower communities through education, healthcare, and sustainable livelihood initiatives.",
+    "scan_title": "Scan & Donate",
+    "scan_desc": "Scan this QR code using any UPI app (Google Pay, PhonePe, Paytm, BHIM) to make a secure donation.",
+    "note": "100% of your donation goes towards social impact initiatives.",
+    "suggested": "Suggested Contributions",
+    "amount_500": "Supports educational materials for underprivileged children",
+    "amount_1000": "Contributes to basic healthcare and nutrition support",
+    "amount_2500": "Helps skill development and livelihood programs",
+    "amount_5000": "Enables long-term community development initiatives",
+    "trust_title": "Transparency & Trust:",
+    "trust_desc": "Ashtavadhani Santulan Foundation is committed to ethical governance, accountability, and measurable impact. Donation utilization details can be shared upon request."
+  },
+  
+  
+  "common": {
+    "notFound": "Work not found"
+  },
+
+  "ourWork": {
+    "title": "Our Work",
+
+    "education": {
+      "title": "Education",
+      "short": "Empowering children through quality education.",
+
+      "whyTitle": "Why Education",
+      "whyText": "Education breaks the cycle of poverty by providing knowledge, confidence, and opportunity. It equips individuals with the skills needed to improve their livelihoods, make informed choices, and pursue meaningful careers. Through education, people gain self-belief and the ability to overcome social and economic barriers. It opens doors to employment, innovation, and social mobility, enabling families and communities to rise above hardship. By fostering critical thinking, equality, and empowerment, education creates long-term change, ensuring that future generations can live with dignity, independence, and hope for a better and more secure future.",
+
+      "whatTitle": "What We Do",
+      "whatText": "We support underprivileged children through schooling, digital learning, nutrition, and mentoring to ensure their holistic development. By providing access to quality education, modern learning tools, and essential nutritional support, we help children build strong academic and physical foundations. Our mentoring programs guide them with motivation, life skills, and emotional support, enabling confidence and self-belief. Through these integrated efforts, we aim to remove barriers to learning, nurture talent, and create equal opportunities. Our approach empowers children to overcome challenges, realize their potential, and move toward a brighter, healthier, and more dignified future.",
+
+      "impactTitle": "Impact",
+      "impactText": "Improved attendance, learning outcomes, and long-term academic success are key results of our holistic approach to education. By addressing barriers such as access to resources, nutrition, and guidance, we create an environment where children are motivated to attend school regularly and engage actively in learning. Consistent support enhances comprehension, skill development, and confidence, leading to better academic performance. Over time, these improvements contribute to sustained educational progress, reduced dropout rates, and stronger future opportunities. Our efforts help learners build a solid foundation for lifelong learning, personal growth, and meaningful participation in society."
+    },
+
+    "healthcare": {
+      "title": "Healthcare",
+      "short": "Improving access to healthcare services.",
+
+      "whyTitle": "Why Healthcare",
+      "whyText": "Healthcare is a basic human right essential for a dignified life. Access to timely, affordable, and quality healthcare enables individuals to live healthy, productive, and secure lives. It helps prevent disease, reduces suffering, and supports physical and mental well-being across all stages of life. When healthcare is accessible to all, communities become stronger, more resilient, and better equipped to overcome challenges. Ensuring healthcare equity promotes social justice, protects vulnerable populations, and upholds human dignity, allowing every individual the opportunity to thrive and contribute meaningfully to society.",
+
+      "whatTitle": "What We Do",
+      "whatText": "Medical camps, maternal care, nutrition programs, and health awareness form the backbone of our healthcare initiatives. Through regular medical camps, we provide accessible checkups, early diagnosis, and essential treatment to underserved communities. Maternal care services support the health and safety of mothers and infants, while nutrition programs address malnutrition and promote overall well-being. Health awareness activities educate communities about hygiene, disease prevention, and healthy lifestyles. Together, these efforts strengthen preventive care, reduce health risks, and improve quality of life, ensuring healthier individuals, families, and communities.",
+
+      "impactTitle": "Impact",
+      "impactText": "Healthier families and reduced illness in underserved communities are the outcomes of accessible and preventive healthcare interventions. By improving access to medical services, nutrition, and health education, families are better equipped to prevent diseases and manage health challenges effectively. Early diagnosis and timely treatment reduce the severity of illnesses and long-term complications. Increased health awareness encourages healthier lifestyles and better hygiene practices. Together, these efforts strengthen community well-being, lower healthcare burdens, and create a more resilient population where individuals can live healthier, more productive lives with dignity and security."
+    },
+
+    "womenempowerment": {
+      "title": "Women Empowerment",
+      "short": "Uplifting women through skills and dignity.",
+
+      "whyTitle": "Why Women Empowerment",
+      "whyText": "Empowered women strengthen families and communities by contributing to social, economic, and emotional well-being. When women have access to education, healthcare, and livelihood opportunities, they become confident decision-makers and role models within their households. Their empowerment leads to improved child health, better education outcomes, and increased financial stability. Women also play a vital role in community leadership and social cohesion, driving positive change at the grassroots level. By supporting women’s empowerment, societies foster equality, resilience, and sustainable development, ensuring stronger families and more inclusive, balanced, and prosperous communities.",
+
+      "whatTitle": "What We Do",
+      "whatText": "Vocational training, entrepreneurship, and leadership programs equip individuals with practical skills, confidence, and the ability to create sustainable livelihoods. Through hands-on training and skill development, participants gain employability and income-generating capabilities. Entrepreneurship support encourages innovation, self-reliance, and small business creation, while leadership programs nurture decision-making, communication, and community engagement. Together, these initiatives empower individuals—especially women and youth—to become economically independent, take on leadership roles, and contribute actively to family stability and community development, fostering long-term social and economic progress.",
+
+      "impactTitle": "Impact",
+      "impactText": "Financial independence and confidence among women are essential for building strong families and resilient communities. When women have access to skills, employment, and income-generating opportunities, they gain the ability to make informed decisions and support their households. Economic self-reliance enhances self-confidence, dignity, and leadership within families and society. Financially empowered women invest in education, health, and nutrition, creating positive outcomes for future generations. By fostering financial independence, we promote gender equality, reduce vulnerability, and enable women to participate actively in social and economic development with strength, security, and confidence."
+    },
+
+    "livelihood": {
+      "title": "Livelihood",
+      "short": "Skill training and placement support for youth.",
+
+      "whyTitle": "Why Livelihood",
+      "whyText": "Sustainable livelihoods ensure long-term economic stability by providing individuals and families with reliable sources of income and opportunities for growth. When people have access to skills, resources, and employment that can adapt over time, they become more resilient to economic challenges. Sustainable livelihood initiatives reduce dependency, promote self-reliance, and strengthen local economies. They also encourage responsible use of resources and support inclusive development. By enabling steady income and financial security, sustainable livelihoods improve quality of life, empower communities, and create a strong foundation for lasting social and economic progress.",
+
+      "whatTitle": "What We Do",
+      "whatText": "Skill development and job placement for underprivileged youth create pathways to employment, self-reliance, and economic inclusion. By providing practical training aligned with industry needs, youth gain marketable skills and confidence to enter the workforce. Job placement support bridges the gap between training and employment, ensuring real opportunities for sustainable income. These initiatives reduce unemployment, prevent social vulnerability, and empower young people to build independent futures. Investing in youth skills not only transforms individual lives but also strengthens communities and contributes to long-term economic growth and social stability.",
+
+      "impactTitle": "Impact",
+      "impactText": "Improved employability and stable income are the direct outcomes of targeted skill development and employment support initiatives. By equipping individuals with relevant, job-ready skills and practical experience, these programs enhance confidence and workforce readiness. Access to stable employment enables consistent income, financial security, and independence. This stability helps individuals support their families, plan for the future, and reduce economic vulnerability. Over time, improved employability strengthens local economies, promotes social inclusion, and creates lasting opportunities for personal growth, dignity, and long-term economic well-being."
+    }
+  }
+}
+
+
+
+
