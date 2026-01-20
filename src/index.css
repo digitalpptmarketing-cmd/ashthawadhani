@@ -2,3 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 @import "tailwindcss";
+
+/* 🔥 Firecracker spark animation */
+.spark {
+  position: absolute;
+  width: 6px;
+  height: 6px;
+  background: radial-gradient(circle, #ff9800, #ff5722);
+  border-radius: 50%;
+  opacity: 0;
+  animation: spark-burst 0.8s ease-out forwards;
+}
+
+.spark:nth-child(1) { top: -8px; left: 50%; animation-delay: 0s; }
+.spark:nth-child(2) { top: 50%; left: -8px; animation-delay: 0.1s; }
+.spark:nth-child(3) { bottom: -8px; left: 50%; animation-delay: 0.15s; }
+.spark:nth-child(4) { top: 50%; right: -8px; animation-delay: 0.2s; }
+.spark:nth-child(5) { top: -6px; left: -6px; animation-delay: 0.25s; }
+.spark:nth-child(6) { bottom: -6px; right: -6px; animation-delay: 0.3s; }
+
+@keyframes spark-burst {
+  0% {
+    transform: scale(0.3);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+}
