@@ -1,6 +1,7 @@
 import React from "react";
 
 const images = [
+    "env2.jpeg",
     "/g1.png",
     "/g2.png",
     "/g3.png",
@@ -13,13 +14,15 @@ const images = [
     "/Slide3.png",
     "/Slide4.png",
     "/Slide 5.png",
+    "env1.jpeg",
+    
 ];
 
 export default function Gallery() {
     return (
         <div className="w-full bg-gray-50 py-20">
 
-            {/* PAGE TITLE */}
+        
             <div className="text-center mb-14">
                 <h1 className="text-4xl font-extrabold text-gray-800">
                     Gallery
@@ -30,7 +33,7 @@ export default function Gallery() {
                 </p>
             </div>
 
-            {/* IMAGE GRID */}
+            
             <div className="max-w-7xl mx-auto px-6
                 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
 

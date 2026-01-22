@@ -9,7 +9,7 @@ export const ourWorkData = [
 
     whatTitleKey: "ourWork.education.whatTitle",
     whatTextKey: "ourWork.education.whatText",
-    whatImages: ["/edu1.jpg", "/edu2.jpg", "/edu3.jpg"],
+    whatImages: ["/edu.jpg", "/Slide1.png", "/educations.jpg"],
 
     impactTitleKey: "ourWork.education.impactTitle",
     impactTextKey: "ourWork.education.impactText"
@@ -57,7 +57,7 @@ export const ourWorkData = [
 
     whatTitleKey: "ourWork.livelihood.whatTitle",
     whatTextKey: "ourWork.livelihood.whatText",
-    whatImages: ["/liv1.jpg", "/liv2.jpg", "/liv3.jpg"],
+    whatImages: ["/g3.png", "/g4.png", "/Slide2.png"],
 
     impactTitleKey: "ourWork.livelihood.impactTitle",
     impactTextKey: "ourWork.livelihood.impactText"
